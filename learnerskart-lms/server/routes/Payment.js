@@ -11,12 +11,12 @@ const STRIPE_SECRET_KEY = process.env.STRIPE_SECRET_KEY || '';
 const STRIPE_PUBLISHABLE_KEY = process.env.STRIPE_PUBLISHABLE_KEY || '';
 const STRIPE_RESTRICTED_KEY = process.env.STRIPE_RESTRICTED_KEY || '';
 
-const razorpayInstance = new Razorpay({
+const razorpayInstance = (RAZORPAY_KEY_ID && RAZORPAY_KEY_SECRET) ? new Razorpay({
   key_id: RAZORPAY_KEY_ID,
   key_secret: RAZORPAY_KEY_SECRET
-});
+}) : null;
 
-const stripeInstance = new Stripe(STRIPE_SECRET_KEY);
+const stripeInstance = STRIPE_SECRET_KEY ? new Stripe(STRIPE_SECRET_KEY) : null;
 
 // @desc Create Stripe Payment Intent for Course or Test
 router.post('/create-stripe-intent', async (req, res) => {
@@ -28,6 +28,7 @@ router.post('/create-stripe-intent', async (req, res) => {
 
     let paymentIntent;
     try {
+      if (!stripeInstance) throw new Error("Stripe not configured");
       paymentIntent = await stripeInstance.paymentIntents.create({
         amount: amountInCents,
         currency: finalCurrency,
