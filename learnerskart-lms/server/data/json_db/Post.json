@@ -1,0 +1,37 @@
+[
+  {
+    "category": "📚 PMP Study Group",
+    "title": "Formula sheet for Earned Value Management (EVM)",
+    "body": "Here is a quick cheat sheet for PMBOK formula calculations: CV = EV - AC, SV = EV - PV, CPI = EV / AC, SPI = EV / PV. Good luck!",
+    "author": "mock_q1hgocb81msk0d5fj",
+    "tags": [
+      "EVM",
+      "calculations",
+      "PMP"
+    ],
+    "likes": [
+      "mock_q1hgocb81msk0d5fj"
+    ],
+    "comments": [
+      {
+        "author": "mock_ud3nft23vmsk0d5fj",
+        "body": "Excellent summary Rahul! Make sure to also remember that an index greater than 1.0 is favorable.",
+        "createdAt": "2026-08-08T06:44:12.679Z"
+      }
+    ],
+    "_id": "mock_0kiyshfrgmsk0d5hk"
+  },
+  {
+    "category": "🆘 Doubt Corner",
+    "title": "Critical Path Method float calculation question",
+    "body": "If an activity has an early start (ES) of 5, late start (LS) of 8, early finish (EF) of 12, late finish (LF) of 15, what is its slack?",
+    "author": "mock_q1hgocb81msk0d5fj",
+    "tags": [
+      "CPM",
+      "Float",
+      "Schedule"
+    ],
+    "likes": [],
+    "_id": "mock_ssie993e8msk0d5hk"
+  }
+]

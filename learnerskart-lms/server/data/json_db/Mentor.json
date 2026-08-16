@@ -1,0 +1,30 @@
+[
+  {
+    "user": "mock_gfqzeb743msk0d5fj",
+    "hourlyRate": 1500,
+    "specialties": [
+      "PMP Calculations",
+      "Agile Product Backlog Management",
+      "Resume Review"
+    ],
+    "availability": [
+      {
+        "day": "Monday",
+        "slots": [
+          "10:00 AM",
+          "02:00 PM",
+          "04:00 PM"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          "10:00 AM",
+          "11:00 AM",
+          "03:00 PM"
+        ]
+      }
+    ],
+    "_id": "mock_gqpwb35wnmsk0d5h6"
+  }
+]

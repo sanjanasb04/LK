@@ -1,0 +1,126 @@
+[
+  {
+    "type": "lesson_complete",
+    "title": "⚡ XP Earned!",
+    "message": "Completed a lesson! Earned +30 XP.",
+    "link": "",
+    "_id": "mock_xwxdjmg3qmsj1cjbs"
+  },
+  {
+    "type": "lesson_complete",
+    "title": "⚡ XP Earned!",
+    "message": "Completed a lesson! Earned +30 XP.",
+    "link": "",
+    "_id": "mock_3t7r8jnzamsj1fpi3"
+  },
+  {
+    "type": "lesson_complete",
+    "title": "🧪 Quiz Passed!",
+    "message": "Passed quiz \"Module 1-2 Assessment Checkpoint\" with 100%. Earned +100 XP!",
+    "link": "",
+    "_id": "mock_qbvqtdxsimsj1fpid"
+  },
+  {
+    "user": "mock_mxuu4dqalmsj1fojp",
+    "type": "mentor_session",
+    "title": "📅 New Mentorship Booking",
+    "message": "Learner \"Rahul Krishnamurthy\" booked a session on \"Technical PMP calculations help\" for Sun Aug 09 2026 at 10:00 AM",
+    "link": "/lms/mentorship",
+    "_id": "mock_w88hqy0rumsj1fpio"
+  },
+  {
+    "type": "lesson_complete",
+    "title": "⚡ XP Earned!",
+    "message": "Completed a lesson! Earned +30 XP.",
+    "link": "",
+    "_id": "mock_8yiv21kvrmsj4at29"
+  },
+  {
+    "type": "lesson_complete",
+    "title": "🧪 Quiz Passed!",
+    "message": "Passed quiz \"Module 1-2 Assessment Checkpoint\" with 100%. Earned +100 XP!",
+    "link": "",
+    "_id": "mock_63pgr3qkkmsj4at34"
+  },
+  {
+    "user": "mock_2gqpe2k6cmsj4arrj",
+    "type": "mentor_session",
+    "title": "📅 New Mentorship Booking",
+    "message": "Learner \"Rahul Krishnamurthy\" booked a session on \"Technical PMP calculations help\" for Sun Aug 09 2026 at 10:00 AM",
+    "link": "/lms/mentorship",
+    "_id": "mock_y24eh1ankmsj4at40"
+  },
+  {
+    "type": "lesson_complete",
+    "title": "⚡ XP Earned!",
+    "message": "Completed a lesson! Earned +30 XP.",
+    "link": "",
+    "_id": "mock_aq8svssn7msjagfni"
+  },
+  {
+    "type": "lesson_complete",
+    "title": "🧪 Quiz Passed!",
+    "message": "Passed quiz \"Module 1-2 Assessment Checkpoint\" with 100%. Earned +100 XP!",
+    "link": "",
+    "_id": "mock_kgncblz9kmsjagfoe"
+  },
+  {
+    "user": "mock_04ocjn4lkmsjagegw",
+    "type": "mentor_session",
+    "title": "📅 New Mentorship Booking",
+    "message": "Learner \"Rahul Krishnamurthy\" booked a session on \"Technical PMP calculations help\" for Sun Aug 09 2026 at 10:00 AM",
+    "link": "/lms/mentorship",
+    "_id": "mock_vp5qessskmsjagfpc"
+  },
+  {
+    "type": "lesson_complete",
+    "title": "⚡ XP Earned!",
+    "message": "Completed a lesson! Earned +30 XP.",
+    "link": "",
+    "_id": "mock_ngc4tfxy4msjau2ae"
+  },
+  {
+    "type": "lesson_complete",
+    "title": "🧪 Quiz Passed!",
+    "message": "Passed quiz \"Module 1-2 Assessment Checkpoint\" with 100%. Earned +100 XP!",
+    "link": "",
+    "_id": "mock_lg7o88zstmsjau2aw"
+  },
+  {
+    "user": "mock_vujn1azwpmsjau10w",
+    "type": "mentor_session",
+    "title": "📅 New Mentorship Booking",
+    "message": "Learner \"Rahul Krishnamurthy\" booked a session on \"Technical PMP calculations help\" for Sun Aug 09 2026 at 10:00 AM",
+    "link": "/lms/mentorship",
+    "_id": "mock_aj7m5zu59msjau2bg"
+  },
+  {
+    "type": "lesson_complete",
+    "title": "⚡ XP Earned!",
+    "message": "Completed a lesson! Earned +30 XP.",
+    "link": "",
+    "_id": "mock_owrs34y4smsk0d6j5"
+  },
+  {
+    "type": "lesson_complete",
+    "title": "🧪 Quiz Passed!",
+    "message": "Passed quiz \"Module 1-2 Assessment Checkpoint\" with 100%. Earned +100 XP!",
+    "link": "",
+    "_id": "mock_yucllrg8tmsk0d6jp"
+  },
+  {
+    "user": "mock_gfqzeb743msk0d5fj",
+    "type": "mentor_session",
+    "title": "📅 New Mentorship Booking",
+    "message": "Learner \"Rahul Krishnamurthy\" booked a session on \"Technical PMP calculations help\" for Mon Aug 10 2026 at 10:00 AM",
+    "link": "/lms/mentorship",
+    "_id": "mock_kbsyetogvmsk0d6kh"
+  },
+  {
+    "type": "enrollment",
+    "title": "📚 Enrolled Successfully",
+    "message": "You have successfully enrolled in \"Project Management Professional (PMP)\". Start learning now!",
+    "link": "/lms/my-courses",
+    "_id": "mock_40eekypw2msnbqyij"
+  }
+]

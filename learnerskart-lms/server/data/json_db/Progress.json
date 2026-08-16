@@ -1,0 +1,79 @@
+[
+  {
+    "course": "mock_zb0e50de0msj1cias",
+    "lesson": "mock_lesson_l101",
+    "isCompleted": true,
+    "completedAt": "2026-08-07T14:25:34.196Z",
+    "_id": "mock_55vpltwu4msj1cjbr"
+  },
+  {
+    "course": "mock_1yw79s5qomsj1fojs",
+    "lesson": "mock_lesson_l101",
+    "isCompleted": true,
+    "completedAt": "2026-08-07T14:26:25.380Z",
+    "_id": "mock_l5hnxhzr6msj1fpi2",
+    "quizAttempts": [
+      {
+        "score": 100,
+        "passed": true,
+        "attemptedAt": "2026-08-07T14:26:25.380Z"
+      }
+    ]
+  },
+  {
+    "course": "mock_3gtfhs2mamsj4arsy",
+    "lesson": "mock_lesson_l101",
+    "isCompleted": true,
+    "completedAt": "2026-08-07T15:46:35.582Z",
+    "_id": "mock_q1d3mvr3cmsj4at21",
+    "quizAttempts": [
+      {
+        "score": 100,
+        "passed": true,
+        "attemptedAt": "2026-08-07T15:46:35.582Z"
+      }
+    ]
+  },
+  {
+    "course": "mock_f0i4bnqdzmsjagegy",
+    "lesson": "mock_lesson_l101",
+    "isCompleted": true,
+    "completedAt": "2026-08-07T18:38:55.833Z",
+    "_id": "mock_dc5b9m6gamsjagfna",
+    "quizAttempts": [
+      {
+        "score": 100,
+        "passed": true,
+        "attemptedAt": "2026-08-07T18:38:55.833Z"
+      }
+    ]
+  },
+  {
+    "course": "mock_30x7eav5cmsjau11v",
+    "lesson": "mock_lesson_l101",
+    "isCompleted": true,
+    "completedAt": "2026-08-07T18:49:31.685Z",
+    "_id": "mock_wvbjafzw7msjau2aa",
+    "quizAttempts": [
+      {
+        "score": 100,
+        "passed": true,
+        "attemptedAt": "2026-08-07T18:49:31.685Z"
+      }
+    ]
+  },
+  {
+    "course": "mock_phwgtfxw7msk0d5g7",
+    "lesson": "mock_lesson_l101",
+    "isCompleted": true,
+    "completedAt": "2026-08-08T06:44:14.051Z",
+    "_id": "mock_h7usl29qimsk0d6j0",
+    "quizAttempts": [
+      {
+        "score": 100,
+        "passed": true,
+        "attemptedAt": "2026-08-08T06:44:14.051Z"
+      }
+    ]
+  }
+]

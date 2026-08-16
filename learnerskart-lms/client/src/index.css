@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional custom scrollbar utilities for dashboard elements */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(10, 61, 145, 0.2);
+  border-radius: 9px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(10, 61, 145, 0.4);
+}

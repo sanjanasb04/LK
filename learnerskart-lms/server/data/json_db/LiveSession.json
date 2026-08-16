@@ -1,0 +1,26 @@
+[
+  {
+    "topic": "🔴 PMP Earned Value Management (EVM) Live Practice Group",
+    "course": "mock_phwgtfxw7msk0d5g7",
+    "instructor": "mock_ud3nft23vmsk0d5fj",
+    "startTime": "2026-08-08T06:54:12.674Z",
+    "meetingLink": "https://zoom.us/test",
+    "duration": 60,
+    "status": "Upcoming",
+    "maxSeats": 50,
+    "mode": "Zoom",
+    "_id": "mock_xixl61ptrmsk0d5he"
+  },
+  {
+    "topic": "PERT Standard Deviation Calculation Masterclass",
+    "course": "mock_phwgtfxw7msk0d5g7",
+    "instructor": "mock_ud3nft23vmsk0d5fj",
+    "startTime": "2026-08-07T06:44:12.674Z",
+    "recordingUrl": "https://youtube.com",
+    "duration": 45,
+    "status": "Completed",
+    "maxSeats": 100,
+    "mode": "YouTube Live",
+    "_id": "mock_0nltnlve8msk0d5he"
+  }
+]

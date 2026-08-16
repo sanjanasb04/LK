@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "streak-master",
+    "name": "Streak Master 🔥",
+    "description": "Completed studies for 7 consecutive days.",
+    "icon": "⚡",
+    "criteria": "Streak equals 7",
+    "_id": "mock_qm2l2sll6msk0d52v"
+  },
+  {
+    "slug": "forum-expert",
+    "name": "Forum Expert 💬",
+    "description": "Posted a helpful answer inside the Doubt Corner.",
+    "icon": "🗣️",
+    "criteria": "Helped solve community doubts",
+    "_id": "mock_fo7g2xy3bmsk0d52v"
+  },
+  {
+    "slug": "quiz-ace",
+    "name": "Quiz Ace 🏆",
+    "description": "Passed an assessment check with a score of 100%.",
+    "icon": "💯",
+    "criteria": "100% quiz accuracy",
+    "_id": "mock_ggkt49y7umsk0d52v"
+  }
+]

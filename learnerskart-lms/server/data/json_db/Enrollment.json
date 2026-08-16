@@ -1,0 +1,463 @@
+[
+  {
+    "_id": "enrollment_pmp",
+    "user": "mock_q1hgocb81msk0d5fj",
+    "course": "course_pmp",
+    "paymentId": "pay_mock123",
+    "enrolledAt": "2026-08-01T12:00:00.000Z",
+    "isCompleted": false
+  },
+  {
+    "_id": "enrollment_capm",
+    "user": "mock_q1hgocb81msk0d5fj",
+    "course": "course_capm",
+    "paymentId": "pay_mock123",
+    "enrolledAt": "2026-08-02T12:00:00.000Z",
+    "isCompleted": false
+  },
+  {
+    "_id": "enrollment_lssgb",
+    "user": "mock_q1hgocb81msk0d5fj",
+    "course": "course_lssgb",
+    "paymentId": "pay_mock123",
+    "enrolledAt": "2026-08-03T12:00:00.000Z",
+    "isCompleted": false
+  },
+  {
+    "_id": "enrollment_cbap",
+    "user": "mock_q1hgocb81msk0d5fj",
+    "course": "course_cbap",
+    "paymentId": "pay_mock123",
+    "enrolledAt": "2026-08-04T12:00:00.000Z",
+    "isCompleted": true,
+    "completedAt": "2026-08-06T12:00:00.000Z"
+  },
+  {
+    "_id": "mock_922562082",
+    "id": "mock_922562082",
+    "user": "mock_621085289",
+    "course": {
+      "_id": "course_1",
+      "slug": "pmp-international",
+      "title": "PMP Certification Training – International",
+      "category": "Project Management",
+      "level": "Intermediate",
+      "students": 7,
+      "price": 0,
+      "originalPrice": 300,
+      "isFree": true,
+      "thumbnail": "/courses/pmp-international.jpg",
+      "shortDescription": "Live instructor-led PMP training for international professionals.",
+      "description": "Prepare for the Project Management Professional (PMP)® certification with our internationally acclaimed program. This course is designed to equip you with the essential skills, tools, and methodologies required to manage complex projects globally. Learn from certified industry veterans, cover the complete PMBOK Guide, and master the predictive, agile, and hybrid project management approaches.",
+      "duration": "16 Hrs",
+      "lessons": [
+        {
+          "_id": "les1",
+          "title": "Welcome and Course Orientation",
+          "contentType": "video",
+          "duration": "12 mins"
+        },
+        {
+          "_id": "les2",
+          "title": "Core Principles and Fundamentals",
+          "contentType": "video",
+          "duration": "25 mins"
+        },
+        {
+          "_id": "les3",
+          "title": "Official Study Guide Companion PDF",
+          "contentType": "doc",
+          "duration": "30 mins reading"
+        },
+        {
+          "_id": "les4",
+          "title": "Deep Dive into Methodologies",
+          "contentType": "video",
+          "duration": "45 mins"
+        },
+        {
+          "_id": "les5",
+          "title": "Real-World Case Studies & Analysis",
+          "contentType": "doc",
+          "duration": "45 mins reading"
+        },
+        {
+          "_id": "les6",
+          "title": "Chapter Review Assessment Quiz",
+          "contentType": "quiz",
+          "duration": "20 mins"
+        },
+        {
+          "_id": "les7",
+          "title": "Intermediate Concepts and Applications",
+          "contentType": "video",
+          "duration": "35 mins"
+        },
+        {
+          "_id": "les8",
+          "title": "Final Course Mock Exam and Assessment",
+          "contentType": "quiz",
+          "duration": "120 mins"
+        }
+      ],
+      "whatYoullLearn": [
+        "Master the core principles, terminologies, and frameworks of the certification.",
+        "Learn how to apply predictive, agile, and hybrid methodologies to real-world scenarios.",
+        "Gain full preparation to clear the official certification exam on your very first attempt.",
+        "Acquire practical project and process management skills highly valued by global corporations.",
+        "Earn the necessary contact hours (PDUs) required to apply for the official board exam.",
+        "Engage with real-life case studies, templates, checklists, and mock questionnaires."
+      ],
+      "prerequisites": [
+        "No strict technical prerequisites. A basic understanding of project structures is helpful.",
+        "Secondary degree (high school diploma or equivalent) is recommended for beginner levels.",
+        "For expert certifications, a university degree plus 2-3 years of work experience is ideal."
+      ],
+      "targetAudience": [
+        "Project managers, project coordinators, team leaders, and quality specialists.",
+        "Professionals aspiring to transition into structured business or project management roles.",
+        "Certified practitioners seeking to maintain their credentials and earn PDUs."
+      ],
+      "faqs": [
+        {
+          "_id": "faq1",
+          "question": "Is the exam fee included in this training course?",
+          "answer": "No, the exam fee is paid directly to the certifying body (e.g., PMI, PeopleCert). However, we offer support and guidelines for your application."
+        },
+        {
+          "_id": "faq2",
+          "question": "How long will I have access to the e-learning materials?",
+          "answer": "You will get lifetime access to all recorded sessions, study guides, and mock exams."
+        },
+        {
+          "_id": "faq3",
+          "question": "Do you offer a high pass rate guarantee?",
+          "answer": "Yes, our training program features a 98.7% pass rate. If you do not pass on your first attempt, we offer free rescheduling and mentoring support."
+        },
+        {
+          "_id": "faq4",
+          "question": "Can I download the study guides and resources?",
+          "answer": "Yes, all study guides, worksheets, PDFs, and slide decks are downloadable for offline study."
+        },
+        {
+          "_id": "faq5",
+          "question": "Is this training recognized globally?",
+          "answer": "Absolutely. LearnersKart is a registered education partner, and our curriculum is fully accredited by major global certification bodies."
+        }
+      ],
+      "instructor": {
+        "name": "Dr. Alok Kumar",
+        "avatar": "https://learnerskart.com/wp-content/uploads/2024/10/co-instructor-06-60x60.jpg",
+        "designation": "Senior Certification Lead",
+        "bio": "Over 15+ years of experience in project management and professional corporate training."
+      },
+      "rating": 4.8,
+      "reviewCount": 34,
+      "$inc": {
+        "students": 1
+      },
+      "updatedAt": "2026-07-11T17:24:46.611Z",
+      "id": "course_1"
+    },
+    "paymentId": "mock_85177314",
+    "enrolledAt": 1783790686633,
+    "completedAt": null,
+    "isCompleted": false
+  },
+  {
+    "_id": "mock_836853835",
+    "id": "mock_836853835",
+    "user": "mock_621085289",
+    "course": {
+      "_id": "course_2",
+      "slug": "pmp-elearning",
+      "title": "PMP® Certification – E-Learning",
+      "category": "Project Management",
+      "level": "Intermediate",
+      "students": 1,
+      "price": 4999,
+      "originalPrice": 6999,
+      "isFree": false,
+      "thumbnail": "/courses/pmp-elearning.jpg",
+      "shortDescription": "Self-paced PMP e-learning with lifetime access to recorded sessions.",
+      "description": "Study at your own pace with our comprehensive PMP E-Learning course. Get lifetime access to high-quality video lectures, downloadable study guides, chapter-wise quizzes, and full-length mock exams. This self-paced package is ideal for busy professionals who want to master project management fundamentals and pass the PMP exam on their own schedule.",
+      "duration": "24 Hrs",
+      "lessons": [
+        {
+          "_id": "les1",
+          "title": "Welcome and Course Orientation",
+          "contentType": "video",
+          "duration": "12 mins"
+        },
+        {
+          "_id": "les2",
+          "title": "Core Principles and Fundamentals",
+          "contentType": "video",
+          "duration": "25 mins"
+        },
+        {
+          "_id": "les3",
+          "title": "Official Study Guide Companion PDF",
+          "contentType": "doc",
+          "duration": "30 mins reading"
+        },
+        {
+          "_id": "les4",
+          "title": "Deep Dive into Methodologies",
+          "contentType": "video",
+          "duration": "45 mins"
+        },
+        {
+          "_id": "les5",
+          "title": "Real-World Case Studies & Analysis",
+          "contentType": "doc",
+          "duration": "45 mins reading"
+        },
+        {
+          "_id": "les6",
+          "title": "Chapter Review Assessment Quiz",
+          "contentType": "quiz",
+          "duration": "20 mins"
+        },
+        {
+          "_id": "les7",
+          "title": "Intermediate Concepts and Applications",
+          "contentType": "video",
+          "duration": "35 mins"
+        },
+        {
+          "_id": "les8",
+          "title": "Final Course Mock Exam and Assessment",
+          "contentType": "quiz",
+          "duration": "120 mins"
+        }
+      ],
+      "whatYoullLearn": [
+        "Master the core principles, terminologies, and frameworks of the certification.",
+        "Learn how to apply predictive, agile, and hybrid methodologies to real-world scenarios.",
+        "Gain full preparation to clear the official certification exam on your very first attempt.",
+        "Acquire practical project and process management skills highly valued by global corporations.",
+        "Earn the necessary contact hours (PDUs) required to apply for the official board exam.",
+        "Engage with real-life case studies, templates, checklists, and mock questionnaires."
+      ],
+      "prerequisites": [
+        "No strict technical prerequisites. A basic understanding of project structures is helpful.",
+        "Secondary degree (high school diploma or equivalent) is recommended for beginner levels.",
+        "For expert certifications, a university degree plus 2-3 years of work experience is ideal."
+      ],
+      "targetAudience": [
+        "Project managers, project coordinators, team leaders, and quality specialists.",
+        "Professionals aspiring to transition into structured business or project management roles.",
+        "Certified practitioners seeking to maintain their credentials and earn PDUs."
+      ],
+      "faqs": [
+        {
+          "_id": "faq1",
+          "question": "Is the exam fee included in this training course?",
+          "answer": "No, the exam fee is paid directly to the certifying body (e.g., PMI, PeopleCert). However, we offer support and guidelines for your application."
+        },
+        {
+          "_id": "faq2",
+          "question": "How long will I have access to the e-learning materials?",
+          "answer": "You will get lifetime access to all recorded sessions, study guides, and mock exams."
+        },
+        {
+          "_id": "faq3",
+          "question": "Do you offer a high pass rate guarantee?",
+          "answer": "Yes, our training program features a 98.7% pass rate. If you do not pass on your first attempt, we offer free rescheduling and mentoring support."
+        },
+        {
+          "_id": "faq4",
+          "question": "Can I download the study guides and resources?",
+          "answer": "Yes, all study guides, worksheets, PDFs, and slide decks are downloadable for offline study."
+        },
+        {
+          "_id": "faq5",
+          "question": "Is this training recognized globally?",
+          "answer": "Absolutely. LearnersKart is a registered education partner, and our curriculum is fully accredited by major global certification bodies."
+        }
+      ],
+      "instructor": {
+        "name": "Dr. Alok Kumar",
+        "avatar": "https://learnerskart.com/wp-content/uploads/2024/10/co-instructor-06-60x60.jpg",
+        "designation": "Senior Certification Lead",
+        "bio": "Over 15+ years of experience in project management and professional corporate training."
+      },
+      "rating": 4.9,
+      "reviewCount": 18,
+      "$inc": {
+        "students": 1
+      },
+      "updatedAt": "2026-07-14T12:19:50.757Z",
+      "id": "course_2"
+    },
+    "paymentId": "mock_438701609",
+    "enrolledAt": 1784031590763,
+    "completedAt": null,
+    "isCompleted": false
+  },
+  {
+    "_id": "mock_41786877",
+    "id": "mock_41786877",
+    "user": "mock_621085289",
+    "course": {
+      "_id": "course_7",
+      "slug": "prince2-foundation-certification-training",
+      "title": "Prince2 Foundation Certification Training",
+      "category": "Project Management",
+      "level": "Beginner",
+      "students": 30,
+      "price": 12999,
+      "originalPrice": 16999,
+      "isFree": false,
+      "thumbnail": "/courses/prince2-foundation.jpg",
+      "shortDescription": "PRINCE2 Foundation level official certification training.",
+      "description": "PRINCE2 (PRojects IN Controlled Environments) is a structured project management methodology. This Foundation course provides you with a complete understanding of the PRINCE2 principles, themes, and processes, preparing you to participate successfully in projects run under this global standard.",
+      "duration": "16 Hrs",
+      "lessons": [
+        {
+          "_id": "les1",
+          "title": "Welcome and Course Orientation",
+          "contentType": "video",
+          "duration": "12 mins"
+        },
+        {
+          "_id": "les2",
+          "title": "Core Principles and Fundamentals",
+          "contentType": "video",
+          "duration": "25 mins"
+        },
+        {
+          "_id": "les3",
+          "title": "Official Study Guide Companion PDF",
+          "contentType": "doc",
+          "duration": "30 mins reading"
+        },
+        {
+          "_id": "les4",
+          "title": "Deep Dive into Methodologies",
+          "contentType": "video",
+          "duration": "45 mins"
+        },
+        {
+          "_id": "les5",
+          "title": "Real-World Case Studies & Analysis",
+          "contentType": "doc",
+          "duration": "45 mins reading"
+        },
+        {
+          "_id": "les6",
+          "title": "Chapter Review Assessment Quiz",
+          "contentType": "quiz",
+          "duration": "20 mins"
+        },
+        {
+          "_id": "les7",
+          "title": "Intermediate Concepts and Applications",
+          "contentType": "video",
+          "duration": "35 mins"
+        },
+        {
+          "_id": "les8",
+          "title": "Final Course Mock Exam and Assessment",
+          "contentType": "quiz",
+          "duration": "120 mins"
+        }
+      ],
+      "whatYoullLearn": [
+        "Master the core principles, terminologies, and frameworks of the certification.",
+        "Learn how to apply predictive, agile, and hybrid methodologies to real-world scenarios.",
+        "Gain full preparation to clear the official certification exam on your very first attempt.",
+        "Acquire practical project and process management skills highly valued by global corporations.",
+        "Earn the necessary contact hours (PDUs) required to apply for the official board exam.",
+        "Engage with real-life case studies, templates, checklists, and mock questionnaires."
+      ],
+      "prerequisites": [
+        "No strict technical prerequisites. A basic understanding of project structures is helpful.",
+        "Secondary degree (high school diploma or equivalent) is recommended for beginner levels.",
+        "For expert certifications, a university degree plus 2-3 years of work experience is ideal."
+      ],
+      "targetAudience": [
+        "Project managers, project coordinators, team leaders, and quality specialists.",
+        "Professionals aspiring to transition into structured business or project management roles.",
+        "Certified practitioners seeking to maintain their credentials and earn PDUs."
+      ],
+      "faqs": [
+        {
+          "_id": "faq1",
+          "question": "Is the exam fee included in this training course?",
+          "answer": "No, the exam fee is paid directly to the certifying body (e.g., PMI, PeopleCert). However, we offer support and guidelines for your application."
+        },
+        {
+          "_id": "faq2",
+          "question": "How long will I have access to the e-learning materials?",
+          "answer": "You will get lifetime access to all recorded sessions, study guides, and mock exams."
+        },
+        {
+          "_id": "faq3",
+          "question": "Do you offer a high pass rate guarantee?",
+          "answer": "Yes, our training program features a 98.7% pass rate. If you do not pass on your first attempt, we offer free rescheduling and mentoring support."
+        },
+        {
+          "_id": "faq4",
+          "question": "Can I download the study guides and resources?",
+          "answer": "Yes, all study guides, worksheets, PDFs, and slide decks are downloadable for offline study."
+        },
+        {
+          "_id": "faq5",
+          "question": "Is this training recognized globally?",
+          "answer": "Absolutely. LearnersKart is a registered education partner, and our curriculum is fully accredited by major global certification bodies."
+        }
+      ],
+      "instructor": {
+        "name": "Sarah Jenkins",
+        "avatar": "https://learnerskart.com/wp-content/uploads/2024/10/co-instructor-04-60x60.jpg",
+        "designation": "PMI-PMP Trainer",
+        "bio": "Certified PM expert with 10+ years of corporate training experience."
+      },
+      "rating": 4.8,
+      "reviewCount": 30,
+      "$inc": {
+        "students": 1
+      },
+      "updatedAt": "2026-07-11T17:31:40.051Z",
+      "id": "course_7"
+    },
+    "paymentId": "mock_688441256",
+    "enrolledAt": 1783791100067,
+    "completedAt": null,
+    "isCompleted": false
+  },
+  {
+    "_id": "mock_843370768",
+    "id": "mock_843370768",
+    "user": "mock_621085289",
+    "course": "course_4",
+    "paymentId": "mock_402956556",
+    "enrolledAt": 1784087498676,
+    "isCompleted": false
+  },
+  {
+    "_id": "mock_13253183",
+    "id": "mock_13253183",
+    "user": "mock_542156526",
+    "course": "course_2",
+    "paymentId": "mock_843638542",
+    "enrolledAt": 1784359382852,
+    "isCompleted": false
+  },
+  {
+    "_id": "mock_554962108",
+    "id": "mock_554962108",
+    "user": "mock_learner_user",
+    "course": "course_capm",
+    "paymentId": "mock_332007231",
+    "enrolledAt": 1784920056141,
+    "isCompleted": false
+  },
+  {
+    "course": "course_pmp",
+    "paymentId": "pay_razorpay_qg5mz05gx",
+    "_id": "mock_y1pydt0yjmsnbqyh3"
+  }
+]
